@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🚀 web dev turned blockchain ninja
+Deep into crypto, DeFi, and writing smart contracts. Got my start as a web dev, now channeling that experience into decentralized projects and all things web3.
 
-<!--
-**alexandar3333/alexandar3333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trading charts by day, coding Solidity by night. 📈💻
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## tech stach:
+- **languages:** JavaScript (TypeScript), HTML, CSS
+- **frontend:** React.js 
+- **backend:** Node.js, Express
+- **db:** MySQL, MongoDB
+- **api:** RESTful, GraphQL
+- **tools:** Git, Docker, Jira
+- **blockchain:** Actively learning Solidity, DeFi protocols, smart contracts
