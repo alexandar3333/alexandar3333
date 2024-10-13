@@ -1,4 +1,3 @@
-# 🚀 web dev turned blockchain ninja
 Deep into crypto, DeFi, and writing smart contracts. Got my start as a web dev, now channeling that experience into decentralized projects and all things web3.
 
 Trading charts by day, coding Solidity by night. 📈💻
