@@ -1,6 +1,6 @@
-Deep into crypto, DeFi, and writing smart contracts. Got my start as a web dev, now channeling that experience into decentralized projects and all things web3.
+gm
 
-Trading charts by day, coding Solidity by night. 📈💻
+Started as a web dev but got hooked into crypto, DeFi, and writing smart contracts. 
 
 ## tech stach:
 - **languages:** JavaScript (TypeScript), HTML, CSS
